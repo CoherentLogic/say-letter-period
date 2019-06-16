@@ -1,0 +1,23 @@
+{
+  "name": "say-letter-period",
+  "version": "0.0.1",
+  "description": "Say a period on the standard output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoherentLogic/say-letter-period.git"
+  },
+  "keywords": [
+    "micropackages",
+    "parody"
+  ],
+  "author": "jpw",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/CoherentLogic/say-letter-period/issues"
+  },
+  "homepage": "https://github.com/CoherentLogic/say-letter-period#readme"
+}
